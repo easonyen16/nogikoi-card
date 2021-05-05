@@ -1,6 +1,6 @@
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
-    fixed: false,
+    fixed: true,
     autoplay: true,
     theme: '#b7daff',
     loop: 'all',
@@ -15,16 +15,14 @@ const ap = new APlayer({
       {
         name: "僕は僕を好きになる",
         artist: '乃木坂46',
-        url: 'whyp.it/t/1-01-26596',
+        url: 'https://drive.google.com/uc?export=download&id=13Yod1vlKyzsx3JpW1pT_e9uoyLRuHJUQ',
         cover: 'https://i.postimg.cc/ZqTXjHMj/cover.jpg',
-        lrc: '',
       },
       {
         name: '明日がある理由',
         artist: '乃木坂46',
-        url: 'whyp.it/t/9193720438',
-        cover: 'https://i.postimg.cc/ZqTXjHMj/cover.jpg',
-        lrc: ''
+        url: 'https://drive.google.com/uc?export=download&id=13Yod1vlKyzsx3JpW1pT_e9uoyLRuHJUQ',
+        cover: 'https://i.postimg.cc/ZqTXjHMj/cover.jpg,
       }
     ]
 });
