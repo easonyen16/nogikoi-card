@@ -2814,7 +2814,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ffec3b;
+  background: #67ff63;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2833,4 +2833,15 @@ ul.breadcrumb li:last-child {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+body {
+  background: url("https://i.postimg.cc/nz8tSWfC/20210216-10004471-it-nlab-000-1-view.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.main-inner {
+  background: #fff;
+  opacity: 0.7;
 }
