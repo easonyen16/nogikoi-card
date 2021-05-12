@@ -213,7 +213,7 @@ body {
 body {
   background: var(--body-bg-color);
   color: var(--text-color);
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Hachi Maru Pop, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1em;
   line-height: 2;
   min-height: 100%;
@@ -226,7 +226,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Hachi Maru Pop, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
@@ -1304,7 +1304,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Hachi Maru Pop, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   margin: 0;
@@ -2021,7 +2021,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Hachi Maru Pop, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2215,7 +2215,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Hachi Maru Pop, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2814,7 +2814,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #66ff58;
+  background: #b5ebee;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2835,7 +2835,7 @@ ul.breadcrumb li:last-child {
   white-space: nowrap;
 }
 body {
-  background: url("https://i.postimg.cc/nz8tSWfC/20210216-10004471-it-nlab-000-1-view.jpg");
+  background: url("https://i.postimg.cc/RZSCchcq/20210216-10004471-it-nlab-000-1-view.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -2846,5 +2846,5 @@ body {
   opacity: 0.95;
 }
 .header-inner {
-  opacity: 0.95;
+  opacity: 0.8;
 }
