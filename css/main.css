@@ -2895,7 +2895,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #08ffa4;
+  background: #9aff60;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2933,4 +2933,3 @@ body {
   height: 1rem;
   width: 1rem;
 }
-/* 鼠標樣式 */
