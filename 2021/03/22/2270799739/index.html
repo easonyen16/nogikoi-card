@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
+<meta name="theme-color" content="#800080">
 <meta name="generator" content="Hexo 5.4.0">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -21,7 +21,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/nogikoi-card/images/apple-touch-icon-next.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/nogikoi-card/images/bitbug_favicon32-32.ico">
   <link rel="icon" type="image/png" sizes="16x16" href="/nogikoi-card/images/bitbug_favicon16-16.ico">
-  <link rel="mask-icon" href="/nogikoi-card/images/logo.svg" color="#222">
+  <link rel="mask-icon" href="/nogikoi-card/images/logo.svg" color="#800080">
 
 <link rel="stylesheet" href="/nogikoi-card/css/main.css">
 
@@ -94,10 +94,12 @@
       <h1 class="site-title">乃木恋 カード</h1>
       <i class="logo-line"></i>
     </a>
+      <p class="site-subtitle" itemprop="description">努力、感謝、笑顔、うちらは乃木坂上り坂46！</p>
   </div>
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -109,11 +111,37 @@
         <li class="menu-item menu-item-home"><a href="/nogikoi-card/" rel="section"><i class="fa fa-home fa-fw"></i>ホーム</a></li>
         <li class="menu-item menu-item-tags"><a href="/nogikoi-card/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>タグ</a></li>
         <li class="menu-item menu-item-categories"><a href="/nogikoi-card/categories/" rel="section"><i class="fa fa-th fa-fw"></i>カテゴリ</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>検索
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="検索…" spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </div>
         
@@ -153,7 +181,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
           <a href="/nogikoi-card/archives">
-          <span class="site-state-item-count">60</span>
+          <span class="site-state-item-count">63</span>
           <span class="site-state-item-name">ポスト</span>
         </a>
       </div>
@@ -173,13 +201,16 @@
 </div>
   <div class="links-of-author site-overview-item animated">
       <span class="links-of-author-item">
-        <a href="https://github.com/easonyen16" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;easonyen16" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+        <a href="https://github.com/easonyen16" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;easonyen16" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i></a>
       </span>
       <span class="links-of-author-item">
-        <a href="mailto:eason990024@gmail.com" title="E-Mail → mailto:eason990024@gmail.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+        <a href="mailto:eason990024@gmail.com" title="E-Mail → mailto:eason990024@gmail.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i></a>
       </span>
       <span class="links-of-author-item">
-        <a href="https://twitter.com/eason990024" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;eason990024" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+        <a href="https://weibo.com/7432617162" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;7432617162" rel="noopener" target="_blank"><i class="fab fa-weibo fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/eason990024" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;eason990024" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
       </span>
   </div>
 
@@ -372,6 +403,7 @@
 <script src="/nogikoi-card/js/utils.js"></script><script src="/nogikoi-card/js/motion.js"></script><script src="/nogikoi-card/js/schemes/muse.js"></script><script src="/nogikoi-card/js/next-boot.js"></script><script src="/nogikoi-card/js/pjax.js"></script>
 
   
+<script src="/nogikoi-card/js/third-party/search/local-search.js"></script>
 
 
 
