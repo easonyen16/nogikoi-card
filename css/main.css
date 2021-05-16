@@ -2895,7 +2895,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #65ffde;
+  background: #ff1dff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2934,9 +2934,3 @@ body {
   width: 1rem;
 }
 /* 鼠標樣式 */
-* {
-  cursor: url("/images/default.cur"), auto;
-}
-:link {
-  cursor: url("/images/pointer.cur"), auto;
-}
