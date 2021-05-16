@@ -2620,6 +2620,14 @@ ul.breadcrumb li:last-child {
     color: #eee;
   }
 }
+.gt-header a,
+.gt-comments a,
+.gt-popup a {
+  border-bottom: 0;
+}
+.gt-container .gt-popup .gt-action.is--active::before {
+  top: 0.7em;
+}
 .search-active {
   overflow: hidden;
 }
@@ -2887,7 +2895,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #7d0966;
+  background: #65ffde;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2919,9 +2927,16 @@ body {
   opacity: 0.9;
 }
 .fa-nogizaka {
-  background: url("/images/Nogizaka46_logo.svg");
+  background: url("https://i.postimg.cc/vZcbW0QY/aq8hn-22uke.png");
   background-position: 50% 75%;
   background-repeat: no-repeat;
   height: 1rem;
   width: 1rem;
+}
+/* 鼠標樣式 */
+* {
+  cursor: url("/images/default.cur"), auto;
+}
+:link {
+  cursor: url("/images/pointer.cur"), auto;
 }
