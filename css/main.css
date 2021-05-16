@@ -2887,7 +2887,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #38ff61;
+  background: #7d0966;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2917,4 +2917,11 @@ body {
 .main-inner {
   background: #fff;
   opacity: 0.9;
+}
+.fa-nogizaka {
+  background: url("/images/Nogizaka46_logo.svg");
+  background-position: 50% 75%;
+  background-repeat: no-repeat;
+  height: 1rem;
+  width: 1rem;
 }
