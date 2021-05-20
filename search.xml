@@ -2766,11 +2766,11 @@ Download Link: http://gestyy.com/eiW6Nz]]></content>
   <entry>
     <title>乃木恋 カード</title>
     <url>/nogikoi-card/2021/05/05/2915273974/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><center><div id="mplayer4461"></div>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><center><div id="mplayer2599"></div>
 <script src="https://cdn.jsdelivr.net/gh/MoePlayer/cPlayer/dist/cplayer.js"></script>
 <script>
     new cplayer({
-      element: document.getElementById('mplayer4461'),
+      element: document.getElementById('mplayer2599'),
         playlist: [
       {
           name: '僕は僕を好きになる',
