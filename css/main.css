@@ -2895,7 +2895,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #043dfb;
+  background: #bee244;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2933,9 +2933,9 @@ body {
   height: 1rem;
   width: 1rem;
 }
-* {
-  cursor: url("/images/default.cur"), auto !important;
+body {
+  cursor: url("/images/default.cur"), default;
 }
-:active {
-  cursor: url("/images/pointer.cur"), auto !important;
+a:hover {
+  cursor: url("/images/pointer.cur"), pointer;
 }
