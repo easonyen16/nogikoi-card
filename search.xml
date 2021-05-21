@@ -392,23 +392,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2021.01.13 ★7★8【素敵な花】</title>
-    <url>/nogikoi-card/2021/01/13/1192102109/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p><a href="https://postimg.cc/xXRCK08V" target="_blank"><img src="https://i.postimg.cc/0Ngw1jqj/image.jpg" alt="image"/></a><br/><br/></p>
-<span id="more"></span>
-<p><a href="https://postimg.cc/f3qRrBYH" target="_blank"><img src="https://i.postimg.cc/gJmLr7jP/image.jpg" alt="image"/></a><br/><br/><br><a href="https://postimg.cc/f3RbC6St" target="_blank"><img src="https://i.postimg.cc/3wgD8hKB/image.jpg" alt="image"/></a><br/><br/><br><a href="https://postimg.cc/FdfH53Zh" target="_blank"><img src="https://i.postimg.cc/mDjz9S11/image.jpg" alt="image"/></a><br/><br/><br>Download Link: <a href="http://gestyy.com/eiTua3">http://gestyy.com/eiTua3</a></p>
-]]></content>
-      <categories>
-        <category>カード</category>
-        <category>2番目の恋</category>
-      </categories>
-      <tags>
-        <tag>堀未央奈</tag>
-        <tag>北野日奈子</tag>
-        <tag>★7★8</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2021.01.13 ★7★8【笑顔の花】</title>
     <url>/nogikoi-card/2021/01/13/1996354879/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p><a href="https://postimg.cc/Y4P9NP6d" target="_blank"><img src="https://i.postimg.cc/KzGMbSRh/image.jpg" alt="image"/></a><br/><br/></p>
@@ -443,6 +426,23 @@
         <tag>遠藤さくら</tag>
         <tag>賀喜遥香</tag>
         <tag>筒井あやめ</tag>
+        <tag>★7★8</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021.01.13 ★7★8【素敵な花】</title>
+    <url>/nogikoi-card/2021/01/13/1192102109/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p><a href="https://postimg.cc/xXRCK08V" target="_blank"><img src="https://i.postimg.cc/0Ngw1jqj/image.jpg" alt="image"/></a><br/><br/></p>
+<span id="more"></span>
+<p><a href="https://postimg.cc/f3qRrBYH" target="_blank"><img src="https://i.postimg.cc/gJmLr7jP/image.jpg" alt="image"/></a><br/><br/><br><a href="https://postimg.cc/f3RbC6St" target="_blank"><img src="https://i.postimg.cc/3wgD8hKB/image.jpg" alt="image"/></a><br/><br/><br><a href="https://postimg.cc/FdfH53Zh" target="_blank"><img src="https://i.postimg.cc/mDjz9S11/image.jpg" alt="image"/></a><br/><br/><br>Download Link: <a href="http://gestyy.com/eiTua3">http://gestyy.com/eiTua3</a></p>
+]]></content>
+      <categories>
+        <category>カード</category>
+        <category>2番目の恋</category>
+      </categories>
+      <tags>
+        <tag>堀未央奈</tag>
+        <tag>北野日奈子</tag>
         <tag>★7★8</tag>
       </tags>
   </entry>
@@ -2994,11 +2994,11 @@ Download Link: http://gestyy.com/eiW6Nz]]></content>
   <entry>
     <title>乃木恋 カード</title>
     <url>/nogikoi-card/2021/05/05/2915273974/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><center><div id="mplayer6928"></div>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><center><div id="mplayer540"></div>
 <script src="https://cdn.jsdelivr.net/gh/MoePlayer/cPlayer/dist/cplayer.js"></script>
 <script>
     new cplayer({
-      element: document.getElementById('mplayer6928'),
+      element: document.getElementById('mplayer540'),
         playlist: [
       {
           name: '僕は僕を好きになる',

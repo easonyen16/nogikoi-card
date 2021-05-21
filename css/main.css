@@ -2895,7 +2895,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #bee244;
+  background: #908e90;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2934,8 +2934,8 @@ body {
   width: 1rem;
 }
 body {
-  cursor: url("/images/default.cur"), default;
+  cursor: url("/nogikoi-card/images/default.cur"), auto !important;
 }
 a:hover {
-  cursor: url("/images/pointer.cur"), pointer;
+  cursor: url("/nogikoi-card/images/pointer.cur"), pointer;
 }
